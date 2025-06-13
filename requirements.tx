@@ -1,0 +1,6 @@
+streamlit>=1.33.0
+langchain>=0.1.14
+langchain-google-genai>=0.0.7
+langchain-community>=0.0.21
+faiss-cpu>=1.7.4
+pypdf>=3.17.0
